@@ -19,6 +19,13 @@ body {
     
 }
 
+#logo {
+    width: 200px;
+    position: relative;
+    left: 105px;
+    top: 13px;
+}
+
 #estados {
     padding: 10px;
     margin-bottom: 25px;
@@ -35,6 +42,7 @@ body {
     background-color: #fff;
     border-radius: 7px;
     padding: 40px;
+    padding-top: 0px;
     box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
     gap: 5px
 }
