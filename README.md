@@ -15,3 +15,23 @@ Anteriormente, realizávamos esse processo de outra forma, que era demorada, pro
 **Desenvolvimento**
 
 Estou realizando o projeto sozinho, mas vejo esse desafio como uma oportunidade para aprimorar minhas habilidades e conhecimentos em desenvolvimento web.
+
+## Funcionalidades
+
+* **Design Responsivo:** A landing page é totalmente responsiva, garantindo uma experiência de navegação agradável tanto em dispositivos móveis quanto em desktops.
+ 
+* **Formulário de Contato:** Formulário simples e intuitivo para que os visitantes possam solicitar cotações ou obter mais informações sobre os serviços.
+
+* **Informações de Contato:** Dados de contato da empresa, incluindo telefone, e-mail e endereço, além de um mapa interativo para facilitar a localização.
+
+## Tecnologias Utilizadas
+
+* **HTML5:** Estruturação semântica do conteúdo.
+
+* **CSS3:** Estilização visual e layout responsivo.
+  
+* **JavaScript:** Interatividade e funcionalidades dinâmicas.
+
+* **Bootstrap:** Framework CSS para acelerar o desenvolvimento responsivo.
+  
+* **Font Awesome:** Ícones vetoriais para melhorar a usabilidade e estética da página.
