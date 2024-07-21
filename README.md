@@ -1,37 +1,33 @@
-# Projeto de Armazenamento de Murais Digitais para Empresa de Recordação Escolar
+# Digital Mural Storage Project for School Souvenir Company
 
-**Descrição da Empresa**
+**Project description**
 
-Trabalho em uma empresa especializada em `recordação escolar` e `design de publicações`. Fotografamos alunos desde o berçário até o ensino médio, além de outras pessoas, em parceria com várias instituições de ensino das regiões norte e nordeste do Brasil. Em busca dos melhores sorrisos, nossa equipe interage e respeita a individualidade de cada estudante, atuando sempre com carinho e dedicação.
+I am developing a project for the company where I work, whose objective is to `store the digital murals` of recently graduated high school students. The students' photos, measuring 30x40, will be placed in frames with a QR code on a wall that will fill the entire page. When the student scans the QR code with their cell phone, they will be redirected to the page where they can see the mural with them and all the graduating students in their class. If the student loses the photo or the QR code is damaged, on the page where the murals will be stored there will be a filter by state and school, allowing the student to access the mural there. Furthermore, it will be possible to recover murals lost due to link errors. With the completion of this project, these problems will be resolved.
 
-**Descrição do Projeto**
+**Motivation**
 
-Estou desenvolvendo um projeto para a empresa onde trabalho, cujo objetivo é `armazenar os murais digitais` dos alunos recém-formados do ensino médio. As fotos dos alunos, no tamanho 30x40, serão colocadas em molduras com um QR code em um mural que preencherá toda a página. Quando o aluno escanear o QR code com o celular, será redirecionado para a página onde poderá ver o mural com ele e todos os alunos formados de sua turma. Caso ele perca a foto ou o QR code seja danificado, na própria página onde os murais serão armazenados haverá um filtro por estado e escola, permitindo ao aluno acessar o mural por lá mesmo. Além disso, será possível recuperar murais perdidos devido a erros de links. Com a finalização deste projeto, esses problemas serão resolvidos.
+Previously, we carried out this process in another way, which was time-consuming, prone to errors and generated a lot of costs. The idea came about after realizing that my coworkers and I were having difficulty storing these murals in an accessible way for all students. Unfortunately, we were using several third-party programs and resources. I then decided to create a website to store all the murals, which significantly reduced the time needed to publish each one, as well as being more practical and reducing costs with paid platforms.
 
-**Motivação**
+**Development**
 
-Anteriormente, realizávamos esse processo de outra forma, que era demorada, propensa a erros e gerava muitos custos. A ideia surgiu após perceber que meus colegas de trabalho e eu estávamos tendo dificuldades em armazenar esses murais de maneira acessível para todos os alunos. Infelizmente, estávamos utilizando diversos programas e recursos de terceiros. Decidi, então, criar um site para armazenar todos os murais, o que reduziu significativamente o tempo necessário para publicar cada um deles, além de ser mais prático e reduzir os custos com plataformas pagas.
+I am carrying out the project alone, but I see this challenge as an opportunity to improve my skills and knowledge in web development.
 
-**Desenvolvimento**
+## Functionalities
 
-Estou realizando o projeto sozinho, mas vejo esse desafio como uma oportunidade para aprimorar minhas habilidades e conhecimentos em desenvolvimento web.
-
-## Funcionalidades
-
-* **Design Responsivo:** A landing page é totalmente responsiva, garantindo uma experiência de navegação agradável tanto em dispositivos móveis quanto em desktops.
+* **Responsive Design:** The landing page is fully responsive, ensuring a pleasant browsing experience on both mobile devices and desktops.
  
-* **Formulário de Contato:** Formulário simples e intuitivo para que os visitantes possam solicitar cotações ou obter mais informações sobre os serviços.
+* **Contact Form:** Simple and intuitive form for visitors to request quotes or obtain more information about the services.
 
-* **Informações de Contato:** Dados de contato da empresa, incluindo telefone, e-mail e endereço, além de um mapa interativo para facilitar a localização.
+* **Contact Information:** Company contact information, including telephone, email and address, as well as an interactive map to facilitate location.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-* **HTML5:** Estruturação semântica do conteúdo.
+* **HTML5:** Semantic structuring of content.
 
-* **CSS3:** Estilização visual e layout responsivo.
+* **CSS3:** Visual styling and responsive layout.
   
-* **JavaScript:** Interatividade e funcionalidades dinâmicas.
+* **JavaScript:** Interactivity and dynamic features.
 
-* **Bootstrap:** Framework CSS para acelerar o desenvolvimento responsivo.
+* **Bootstrap:** CSS framework to speed up responsive development.
   
-* **Font Awesome:** Ícones vetoriais para melhorar a usabilidade e estética da página.
+* **Font Awesome:** Vector icons to improve page usability and aesthetics.
